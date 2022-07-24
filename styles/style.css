@@ -1,0 +1,17 @@
+
+.carousel-item{
+    background-color: #FEEAE9;
+}
+.price{
+    color: #FF3585;
+}
+.title{
+    color: #1F1F1F;
+}
+.btn{
+    background-color: #FF3585;
+    border: none;
+    color: white;
+    padding: 7px 25px;
+    text-transform: capitalize;
+}
