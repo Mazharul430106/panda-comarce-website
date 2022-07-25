@@ -8,15 +8,30 @@
 .title{
     color: #1F1F1F;
 }
-.btn{
+/* .btn{
     background-color: #FF3585;
     border: none;
     color: white;
     padding: 7px 25px;
     text-transform: capitalize;
-}
+} */
 
 .subscribe{
     background-color: #FEEAE9;
     margin-top: 120px;
+}
+.cetagories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    border: none;
+    background-color: #ff589b;
+    color: #fff !important;
+}
+.panda-btn-buy-now:hover{
+    background-color:#FF3585 !important;
+}
+
+.slide-prev-btn{
+    color: #FF3585 !important;
 }
